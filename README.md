@@ -23,14 +23,9 @@ Setup
    
        python -m unittest test_movie_search.py -v
 6. Usage Example
+   
        from movie_search import search_movies
        print(search_movies("spy thriller in Paris", top_n=3))
-movie-search-assignment/
-│── AI_Systems_Development_Assignment_1_srujan_avasarala_.ipynb   # Notebook solution
-│── movie_search.py                                               # Core implementation
-│── test_movie_search.py                                          # Unit tests
-│── movies.csv                                                    # Dataset
-│── requirements.txt                                              # Dependencies
-│── README.md                                                     # Instructions
+
 
 
